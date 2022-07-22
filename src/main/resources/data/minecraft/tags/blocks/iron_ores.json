@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:iron_ore",
+    "minecraft:deepslate_iron_ore",
+    "fortunateores:iron_ore",
+    "fortunateores:deepslate_iron_ore"
+  ]
+}

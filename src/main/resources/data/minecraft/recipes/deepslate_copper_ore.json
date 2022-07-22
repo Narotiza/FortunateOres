@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_copper_block"
+    },
+    {
+      "item": "minecraft:raw_copper_block"
+    },
+    {
+      "item": "minecraft:raw_copper_block"
+    },
+    {
+      "item": "minecraft:raw_copper_block"
+    }
+  ],
+  "result": {
+    "item": "fortunateores:deepslate_copper_ore",
+    "count": 36
+  }
+}

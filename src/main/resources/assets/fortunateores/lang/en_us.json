@@ -1,0 +1,15 @@
+{
+  "block.fortunateores.copper_ore": "Copper Ore",
+  "block.fortunateores.deepslate_copper_ore": "Deepslate Copper Ore",
+  "block.fortunateores.iron_ore": "Iron Ore",
+  "block.fortunateores.deepslate_iron_ore": "Deepslate Iron Ore",
+  "block.fortunateores.gold_ore": "Gold Ore",
+  "block.fortunateores.deepslate_gold_ore": "Deepslate Gold Ore",
+  
+  "block.minecraft.copper_ore": "Untouched Copper Ore",
+  "block.minecraft.deepslate_copper_ore": "Untouched Deepslate Copper Ore",
+  "block.minecraft.iron_ore": "Untouched Iron Ore",
+  "block.minecraft.deepslate_iron_ore": "Untouched Deepslate Iron Ore",
+  "block.minecraft.gold_ore": "Untouched Gold Ore",
+  "block.minecraft.deepslate_gold_ore": "Untouched Deepslate Gold Ore"
+}

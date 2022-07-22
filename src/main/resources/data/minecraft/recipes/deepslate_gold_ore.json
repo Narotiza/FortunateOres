@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_gold_block"
+    },
+    {
+      "item": "minecraft:raw_gold_block"
+    },
+    {
+      "item": "minecraft:raw_gold_block"
+    },
+    {
+      "item": "minecraft:raw_gold_block"
+    }
+  ],
+  "result": {
+    "item": "fortunateores:deepslate_gold_ore",
+    "count": 36
+  }
+}

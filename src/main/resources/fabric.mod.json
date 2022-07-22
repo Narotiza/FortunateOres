@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "fortunateores",
+  "version": "${version}",
+  "name": "Fortunate Ores",
+  "description": "Makes copper, iron, and gold ore seemingly drop themselves while still allowing Fortune to be used on them",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/fortunateores/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "club.moonlane.fortunateores.client.FortunateoresClient"
+    ],
+    "main": [
+      "club.moonlane.fortunateores.Fortunateores"
+    ]
+  },
+  "mixins": [
+    "fortunateores.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}

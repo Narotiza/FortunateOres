@@ -3,7 +3,7 @@
   "id": "fortunateores",
   "version": "${version}",
   "name": "Fortunate Ores",
-  "description": "Makes copper, iron, and gold ore seemingly drop themselves while still allowing Fortune to be used on them",
+  "description": "Effectively replaces Raw Iron, Raw Copper and Raw Gold with new blocks that resemble the ores they came from, but do not drop any extra when mined with fortune.",
   "authors": [],
   "contact": {},
   "license": "MIT",
